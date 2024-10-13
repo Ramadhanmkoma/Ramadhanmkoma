@@ -1,7 +1,5 @@
-### Hello there 👋
-
-# 💫 About Me:
-👋 Hello there!<br>I'm Ramadhan Mohammed, a passionate web developer with a love for coding and problem-solving.<br>🚀 I'm currently working on exciting projects that challenge me and allow me to expand my skills.<br>🌟 I'm looking to collaborate on innovative projects where I can contribute my expertise and learn from fellow developers.<br>💻 On my GitHub profile, you'll find a collection of my coding projects, showcasing my creativity and dedication to clean and efficient code.<br>🎓 With a background in Bsc. Computer Science, I'm continuously learning and exploring new technologies and frameworks.<br>⚡️ I believe in the power of open-source development and enjoy contributing to meaningful projects that make a difference.<br>🌍 When I'm not coding, I love to explore the world and immerse myself in different cultures.<br>📚 Lifelong learning is a value I hold dear, and I'm always eager to stay up-to-date with the latest tech trends.<br>🤝 Let's connect and collaborate on exciting projects. Feel free to reach out and join me on this coding journey!<br>
+# About Me
+I am an individual driven by a profound passion for coding and design. Beyond the lines of code and pixels, my true zeal lies in building a better Akhera for our beloved ones. I am dedicated to leveraging my knowledge for the benefit of Islam, ensuring that the world receives the intended wisdom and enlightenment.<br>
 
 
 ## 🌐 Socials:
